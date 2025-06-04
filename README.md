@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharvpatil15
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently pursuing engineering in Information technology
+- 👀 I’m interested in Web dev, app dev, and AIML
+- 🌱 I’m currently pursuing BE in Computer Engineering
 - 📫 you can reach me at atharva1592005@gmail.com 
 - 🎸 other hobbies music 
      (tabla and guitar) and travelling 
