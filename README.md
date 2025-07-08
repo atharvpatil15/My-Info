@@ -23,29 +23,11 @@ I'm a passionate Computer Science student at Savitribai Phule Pune University, s
 
 ## 📈 GitHub Stats
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-
-  <h2 style="color: #f012be; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    🚀 GitHub Stats & Top Languages 🚀
-  </h2>
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=atharvpatil15&show_icons=true&theme=radical"
-      alt="Atharva's GitHub stats"
-      style="width: 400px; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 0, 132, 0.4);"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvpatil15&show_icons=true&theme=radical" alt="Atharva's GitHub stats" width="400" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 0, 132, 0.4);"
     />
-
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvpatil15&layout=compact&theme=radical"
-      alt="Top Languages"
-      style="width: 330px; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 0, 132, 0.4);"
-    />
-
-  </div>
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvpatil15&layout=compact&theme=radical" alt="Top Languages" width="330" style="width: 330px; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 0, 132, 0.4);"/>
+</p>
 
 
 ---
